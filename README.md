@@ -1,9 +1,9 @@
 ## Olá, eu sou o André 👨‍🦲
 
 - 👨‍🎓 Engenheiro
-- 💻 Desenvolvedor de Software e Web
+- 💻 Desenvolvedor de Software/ Cientista de Dados
 - 📚 Estudando Java e Python
-- ✉ Para contactos: afcarioca@hotmail.com
+- ✉ Para contatos: afcarioca@hotmail.com
 
 
 
